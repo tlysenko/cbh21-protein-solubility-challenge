@@ -1,5 +1,9 @@
-# Insert-Team-Name-here
+# Slava Proteinam
 
-This is our submission for the CBH2021 hackathon.
-
+Team Members
+- Tatyana Lysenko
+Oleksandr Petrenko
+Taras Voitsitskyi
+Yevhen Tarasov
+Illia Terpylo
 
