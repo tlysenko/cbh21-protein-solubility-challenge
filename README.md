@@ -7,6 +7,14 @@ Large-scale protein production for biotechnology and biopharmaceutical applicati
 
 The challenge is mentored by [Christopher Ing](https://github.com/cing) and [Mark Fingerhuth](https://github.com/markf94).
 
+## Our team is "Slava Proteinam"
+
+Tatyana Lysenko
+Oleksandr Petrenko
+Taras Voitsitskyi
+Yevhen Tarasov
+Illia Terpylo
+
 ## Challenge Aim
 
 It is the objective of this project to use our provided dataset of protein structure and solubility value pairs in order to produce a solubility predictor with comparable accuracy to sequence-based predictors reported in the literature. The provided dataset to be used in this project is created by following the dataset curation procedure described in [the SOLart paper](https://academic.oup.com/bioinformatics/article/36/5/1445/5585748), and this hackathon project has a similar aim to this manuscript.
