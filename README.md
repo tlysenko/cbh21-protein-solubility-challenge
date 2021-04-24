@@ -9,11 +9,11 @@ The challenge is mentored by [Christopher Ing](https://github.com/cing) and [Mar
 
 ## Our team is "Slava Proteinam"
 
-Tatyana Lysenko
-Oleksandr Petrenko
-Taras Voitsitskyi
-Yevhen Tarasov
-Illia Terpylo
+- Tatyana Lysenko
+- Oleksandr Petrenko
+- Taras Voitsitskyi
+- Yevhen Tarasov
+- Illia Terpylo
 
 ## Challenge Aim
 
