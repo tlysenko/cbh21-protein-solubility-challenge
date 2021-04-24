@@ -27,7 +27,7 @@ jobs:
 
             -   name: Publish new version to BioLib if on main branch
                 if: github.ref == 'refs/heads/main'
-                run: biolib push $BIOLIB_PROJECT_URI --path submission
+                run: biolib push Slava-Proteinam-py6n/Slava-Proteinam --path submission
                 env:
                     BIOLIB_PROJECT_URI: ${{ secrets.BIOLIB_PROJECT_URI }}
                     BIOLIB_TOKEN: ${{ secrets.BIOLIB_TOKEN }}
